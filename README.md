@@ -1,0 +1,2 @@
+# TypingFast
+TypingFast
